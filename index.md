@@ -2,9 +2,9 @@
 layout: workshop
 carpentry: 'dc'
 venue: "H3ABioNet presents: Introduction to R"
-humandate: '5-6 September 2019'
-startdate: 2019-09-05
-enddate: 2019-09-06
+humandate: '14-22 October 2021'
+startdate: 2021-10-14
+enddate: 2021-10-22
 instructor: ["Katie Lennard"]
 email: ["katieviljoen@gmail.com"]
 collaborative_notes: https://pad.carpentries.org/H3ABioNet_R
