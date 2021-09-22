@@ -214,7 +214,7 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
     <a href="https://www.r-project.org">R</a> is a programming language
     that is especially powerful for data exploration, visualization, and
     statistical analysis. To interact with R, we use
-    <a href="https://www.rstudio.com/">RStudio</a>. To access Rstudio via your cluster, please follow the instructions <a href = "https://github.com/grbot/16s-int-bt/blob/master/software_setup_and_testing.md#5-running-rstudio-on-a-server">here</a>
+    <a href="https://www.rstudio.com/">RStudio</a>. To access Rstudio via your cluster, please follow the instructions <a href = "https://github.com/grbot/16s-int-bt/blob/master/software_setup_and_testing.md#4-running-rstudio-on-a-cluster en https://github.com/grbot/16s-int-bt/blob/master/software_setup_and_testing.md#5-running-rstudio-on-a-server">here</a>
   </p>
 
 {% comment %}
